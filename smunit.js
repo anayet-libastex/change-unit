@@ -3,7 +3,7 @@
 // Conversion factors
 const pxPerEm = 16; // Default value: 1em = 16px
 const pxPerInch = 96; // 1 inch = 96px
-const pxPerPt = 1.333; // 1pt = 1.333px
+const  pxPerPt = 1.333; // 1pt = 1.333px
 
 // Elements
 const unitType = document.getElementById('unitType');
